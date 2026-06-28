@@ -66,19 +66,4 @@ IN NO EVENT SHALL HAB ORGANIZATION BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LI
 
 This license shall be governed by applicable intellectual property and copyright laws.
 
-11. CONTACT
-
-HAB Organization
-
-GitHub:
-https://github.com/iliziroff/hab_main_open.git
-
-CONTACTS:
-
-TELEGRAM
-https://t.me/iliziroff
-
-PHONE NUMBER (ANON):
-+888 (049) 253-83
-
 END OF LICENSE
